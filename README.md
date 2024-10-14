@@ -2,7 +2,7 @@ Udacity Data Scientist Nanodegree Project
 
 This is the repo of the Write a Data Science Blog Post project for the Udacity Data Scientist Nanodegree Project.
 
-1- Business Understanding
+1- Business Understanding 
 
 We investigated the Seattle AirBnB data to get insight how business is doing in diff type of properties, what kind of properties are popular and what time demand is high so that accordingly business can be expanded.
 
