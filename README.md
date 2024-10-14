@@ -30,16 +30,16 @@ we graphed different behaviours that were relevant to the 3 questions, with the 
 
 for the 3 questions, we arrived at the following conclusions:
 
-- How much business happening on Accessible Vs Non Accessible Property? Non Accessible seems a bit better that Accessible but number of properties are less for Accessible.
+- How much business happening on Accessible Vs Non Accessible Property? Non Accessible seems doing business a bit better than Accessible but number of properties are less for Accessible.
 
 - What kind of less pricey properties users are preferring? Apartment Type
 
 - Which time of the year demand is high? January
 
-The blog is written on the following link
+The blog is written on this  [link](https://medium.com/@maity.sohini17/udacity-data-science-seattle-airbnb-data-analysis-04ae96deebe9)
 
-The readme format:
+6- Files in Repo
 
-- libraries used: Numpy, Pandas, Matplotlib and Seaborn
+- libraries used: Pandas, Matplotlib and Seaborn
 
 - The files in the repository with a small description of each: Zip files that are used as the dataset. Also, the Code file is the jupyter notebook script. a summary of the results have pictorial representation.
