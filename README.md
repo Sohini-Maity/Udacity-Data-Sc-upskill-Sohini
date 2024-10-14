@@ -30,7 +30,7 @@ we graphed different behaviours that were relevant to the 3 questions, with the 
 
 for the 3 questions, we arrived at the following conclusions:
 
-- How much business happening on Accessible Vs Non Accessible Property? Non Accessible seems a bit better that Accessible but number of properties are less for Accessible.
+- How much business happening on Accessible Vs Non Accessible Property? Non Accessible seems doing business a bit better than Accessible but number of properties are less for Accessible.
 
 - What kind of less pricey properties users are preferring? Apartment Type
 
